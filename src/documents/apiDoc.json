@@ -1,0 +1,14 @@
+{
+    "/" : "Get Document/ All Route API",
+    "/posts/" : "Method : GET - Get All posts",
+    "/posts/create" : "Method : POST - Create new post (auth)",
+    "/posts/getcurrentpost" : "Method : GET - Get posts off this user (auth)",
+    "/posts/updatePost/:id" : "Method : PATCH - Update post (auth)",
+    "/posts/deletePost/:id" : "Method : DELETE - Delete post (auth)",
+    "/users/signup" : "Method : POST - Create new user",
+    "/users/login" : "Method : POST - User login",
+    "/users/profile" : "Method : GET - Get profile user",
+    "/users/updateProfile" : "Method : PATCH - Update profile user",
+    "/users/logout" : "Method : POST - Logout User",
+    "/users/deleteUser" : "Method : DELETE - Delete user"
+}
